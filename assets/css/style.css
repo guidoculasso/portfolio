@@ -12,8 +12,28 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     text-align: left;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 80px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 100px;
     margin-left:80px;
+} 
+
+.tamaño { 
+
+    height: 150px;
+    width: 150px;
+    margin-left: 80px;
+    border-radius: 70%;
+
 }
+
+.tamaño2 {
+
+    height: 242
+ px;
+    width: 480px;
+    margin-left: 80px;
+
+}
+
+
